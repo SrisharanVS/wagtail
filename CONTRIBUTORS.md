@@ -743,7 +743,6 @@
 * Sandro Rodrigues
 * Brian Mugo
 * Panagiotis H.M. Issaris
-* Damilola Oladele
 * Olumide Micheal
 * Chiemezuo Akujobi
 * Krish Soni
@@ -836,7 +835,7 @@
 * Shubham Mukati
 * Matthew Scouten
 * Ishwari8104
-* rahulsamant37
+* Rahul Samant
 * Gabriel Getzie
 * Rohit Singh
 * Robin Varghese
@@ -847,6 +846,13 @@
 * Frank Yiu
 * Shaurya Panchal
 * Sumana Sree Angajala
+* Srishti Jaiswal
+* Alessandro Chitarrini
+* Joel William
+* Ataf Fazledin Ahamed
+* Ayaan Qadri
+* manu
+* Aayushman Singh
 
 ## Translators
 
